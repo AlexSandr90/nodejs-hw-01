@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "5d7e4ee9-9594-4413-af82-f98e2a576b17",
+    "name": "Rachael Turcotte",
+    "phone": "376.713.3264",
+    "email": "Ressie33@gmail.com",
+    "job": "Forward Program Supervisor"
+  },
+  {
+    "id": "bfb9ec19-4f26-4682-b0b4-7f6aebf73e7e",
+    "name": "Dr. Ernesto Bogisich",
+    "phone": "568.808.1571",
+    "email": "Reed74@yahoo.com",
+    "job": "Customer Implementation Officer"
+  },
+  {
+    "id": "89bbbdb1-c903-418d-8760-6f04a3d15f5a",
+    "name": "June Ward",
+    "phone": "(668) 604-2307 x808",
+    "email": "Osborne47@yahoo.com",
+    "job": "Principal Creative Developer"
+  },
+  {
+    "id": "a6ead8a0-2971-495d-9250-8b13e1659dff",
+    "name": "Robin Greenholt",
+    "phone": "1-788-814-1845 x47757",
+    "email": "Armand.Corkery@yahoo.com",
+    "job": "District Mobility Developer"
+  },
+  {
+    "id": "a3cc2951-49a1-4448-b306-923df78c2f17",
+    "name": "Albert Kessler",
+    "phone": "413.479.9808 x0423",
+    "email": "Hubert_Becker@gmail.com",
+    "job": "Principal Paradigm Technician"
+  }
+]
